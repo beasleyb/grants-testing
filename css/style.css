@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	padding-top:10px;
+	padding-left:10px;
+}
+
+.tooltip-circle {
+	position:absolute;
+	background:black;
+	border-radius:50%;
+	width:10px;
+	height:10px;
+	border:1px solid black;
+	}
+
+.tooltip-circle:hover {
+	background:white;
+	border-radius:50%;
+	width:10px;
+	height:10px;
+	border:1px solid black;
+	}
+
+.selected {
+	border:1px solid #8AC007;
+}
+
+.searchBar {
+	width: 275px;
+	height: 30px;
+	top: 20px;
+	left: 900px;
+	position: absolute;
+}

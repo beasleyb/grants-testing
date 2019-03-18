@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<grants>
+	<grant id="1" areas="259">
+		<title>A Bluejay is a Bird</title>
+		<amount>11111</amount>
+		<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary>
+		<PI-list>
+			<PI>
+				<name>Bob</name>
+				<email>bob@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Jon</name>
+				<email>jon@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Kathy</name>
+				<email>kathy@msu.edu</email>
+			</PI>
+		</PI-list>
+		<start-date>startDate 1</start-date>
+		<end-date>endDate 1</end-date>
+	</grant>
+	<grant id="2" areas="348">
+		<title>Bob Sometimes Says Hello</title>
+		<amount>22222</amount>
+		<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary>
+		<PI-list>
+			<PI>
+				<name>Tom</name>
+				<email>tom@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Jenny</name>
+				<email>jenny@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Kate</name>
+				<email>kate@msu.edu</email>
+			</PI>
+		</PI-list>
+		<start-date>startDate 2</start-date>
+		<end-date>endDate 2</end-date>
+	</grant>
+	<grant id="3" areas="353">
+		<title>Cats aren't Friendly</title>
+		<amount>11111</amount>
+		<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary>
+		<PI-list>
+			<PI>
+				<name>Bob</name>
+				<email>bob@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Jon</name>
+				<email>jon@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Kathy</name>
+				<email>kathy@msu.edu</email>
+			</PI>
+		</PI-list>
+		<start-date>startDate 1</start-date>
+		<end-date>endDate 1</end-date>
+	</grant>
+	<grant id="4" areas="259,348">
+		<title>Do Not go to Denny's for Breakfast</title>
+		<amount>22222</amount>
+		<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary>
+		<PI-list>
+			<PI>
+				<name>Tom</name>
+				<email>tom@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Jenny</name>
+				<email>jenny@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Kate</name>
+				<email>kate@msu.edu</email>
+			</PI>
+		</PI-list>
+		<start-date>startDate 2</start-date>
+		<end-date>endDate 2</end-date>
+	</grant>
+	<grant id="5" areas="353">
+		<title>Earth Science is Cool!</title>
+		<amount>22222</amount>
+		<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary>
+		<PI-list>
+			<PI>
+				<name>Tom</name>
+				<email>tom@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Jenny</name>
+				<email>jenny@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Kate</name>
+				<email>kate@msu.edu</email>
+			</PI>
+		</PI-list>
+		<start-date>startDate 2</start-date>
+		<end-date>endDate 2</end-date>
+	</grant>
+	<grant id="6" areas="348,259">
+		<title>Dogs are Fun</title>
+		<amount>22222</amount>
+		<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary>
+		<PI-list>
+			<PI>
+				<name>Tom</name>
+				<email>tom@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Jenny</name>
+				<email>jenny@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Kate</name>
+				<email>kate@msu.edu</email>
+			</PI>
+		</PI-list>
+		<start-date>startDate 2</start-date>
+		<end-date>endDate 2</end-date>
+	</grant>
+	<grant id="7" areas="">
+		<title>This Does Not Have an Area</title>
+		<amount>22222</amount>
+		<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary>
+		<PI-list>
+			<PI>
+				<name>Tom</name>
+				<email>tom@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Jenny</name>
+				<email>jenny@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Testing</name>
+				<email>testing@msu.edu</email>
+			</PI>
+		</PI-list>
+		<start-date>startDate 2</start-date>
+		<end-date>endDate 2</end-date>
+	</grant>
+	<grant id="8" areas="342">
+		<title>This Does Not Have a Summary</title>
+		<amount>22222</amount>
+		<summary></summary>
+		<PI-list>
+			<PI>
+				<name>Tommy</name>
+				<email>tommy@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Jenny</name>
+				<email>jenny@msu.edu</email>
+			</PI>
+			<PI>
+				<name>Katy</name>
+				<email>katy@msu.edu</email>
+			</PI>
+		</PI-list>
+		<start-date>startDate 2</start-date>
+		<end-date>endDate 2</end-date>
+	</grant>
+</grants>
